@@ -4,7 +4,6 @@ import webbrowser as web
 
 
 def main():
-    chrome_path = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe %s"
 
 r=sr.Recognizer()
 
